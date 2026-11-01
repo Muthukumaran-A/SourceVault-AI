@@ -12,6 +12,7 @@
 ![Stage 01: In Progress](https://img.shields.io/badge/Stage%2001-In%20Progress-C69026?style=for-the-badge)
 ![Source Code: Private](https://img.shields.io/badge/Source%20Code-Private-52525B?style=for-the-badge)
 ![AI Analysis: Planned](https://img.shields.io/badge/AI%20Analysis-Planned-8250DF?style=for-the-badge)
+![Future Platforms](https://img.shields.io/badge/Future%20Platforms-Linux%20%26%20macOS%20Planned-8250DF?style=for-the-badge)
 
 [The vision](#the-vision) · [Interface preview](#early-development-preview) · [Product direction](#product-direction) · [Roadmap](#roadmap) · [Availability](#source-code--availability)
 
