@@ -1,6 +1,5 @@
 # SourceVault-AI
 Intelligent AI-powered source code and model library manager.
-# SourceVault AI
 
 ### Your Open-Source Universe. Organized.
 
